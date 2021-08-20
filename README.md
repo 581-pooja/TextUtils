@@ -10,7 +10,7 @@
 - Extra Space Remover
 
 # Requirements
-Python 3
-Django Framework
-Bootstraph Framework 
-HTML
+- Python 3
+- Django Framework
+- Bootstraph Framework 
+- HTML
